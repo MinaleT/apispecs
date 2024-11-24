@@ -1,0 +1,10 @@
+{
+  "main": "bookmobile_as.raml",
+  "name": "BookMobile_as",
+  "groupId": "251eabae-5bd6-4755-9cd1-be062fa5f89f",
+  "assetId": "bookmobile_as",
+  "version": "1.0.0",
+  "classifier": "raml",
+  "tags": [],
+  "descriptorVersion": "1.0.0"
+}
